@@ -39,10 +39,8 @@ So, that is a little bit about why this blog exists.
 
 Now.
 
-## Just who are you? Why should I you?
+## Just who are you? Why should I trust you?
 
 Well, I'm an undergraduate computer science student, and I've been developing software (mainly websites and APIs) for around 6 years, in my spare time. As to why you should trust me? That's up to you, you can go take a look at all of my public work on [my github](https://github.com/Aervyon), you can ask the people I've worked with (if you can contact them), or you can contact me on [Twitter](https://twitter.com/Aervyon). If you have a business inquiry you can email [aervy@aervyon.com](http://mailto:aervy@aervyon.com)
-
-p.s I'm making a new site. Be on the lookout for it, it's nearly done.
 
 \*If you're still reading this wonder "hey what's a Folderr?" you can check out [the Folderr github](https://github.com/Folderr) and [Folderr's Docs](https://folderr.net)
